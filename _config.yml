@@ -12,7 +12,7 @@ github_repo: "https://github.com/asmexie/asmexie.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-asmexie-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -99,10 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
+        title: "github",
         href: "http://asmexie.github.com"
     },{
-        title: "简书·BY",
+        title: "简书",
         href: "http://www.jianshu.com"
     },{
         title: "Apple",
